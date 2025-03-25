@@ -6,14 +6,8 @@
 💞️ I'm looking to collaborate on article synchronization assistant.  
 📫 How to reach me? Email: witw0948@gmail.com  
 
-## 💻 Most Used Languages    🏆 LeetCode Stats
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepermake&layout=compact&card_width=445&hide_border=true&langs_count=8&height=200" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://leetcard.jacoblin.cool/Lee%20WitW?theme=light&font=Fira%20Code&ext=heatmap&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
+## 💻 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepermake&layout=compact&card_width=500&hide_border=true&langs_count=8&height=200)
+
+## 🏆 LeetCode Stats
+![](https://leetcard.jacoblin.cool/witw-lee?ext=heatmap&site=cn)
