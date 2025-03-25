@@ -6,11 +6,14 @@
 💞️ I'm looking to collaborate on article synchronization assistant.  
 📫 How to reach me? Email: witw0948@gmail.com  
 
-## 📊 GitHub Stats
-[![deepermake](https://github-readme-stats.vercel.app/api?username=deepermake)](https://github.com/anuraghazra/github-readme-stats)
-
-## 💻 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepermake)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🏆 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/deepermake?theme=light&font=Fira%20Code&ext=heatmap)
+## 💻 Most Used Languages    🏆 LeetCode Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepermake&layout=compact" />
+    </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/Lee%20WitW?theme=light&font=Fira%20Code&ext=heatmap" />
+    </td>
+  </tr>
+</table>
